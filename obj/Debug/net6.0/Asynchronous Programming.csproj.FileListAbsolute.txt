@@ -12,3 +12,4 @@ C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\Asynchronous Programmi
 C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\Asynchronous Programming\obj\Debug\net6.0\Asynchronous Programming.pdb
 C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\Asynchronous Programming\obj\Debug\net6.0\Asynchronous Programming.genruntimeconfig.cache
 C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\Asynchronous Programming\obj\Debug\net6.0\ref\Asynchronous Programming.dll
+C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\Asynchronous Programming\obj\Debug\net6.0\Asynchronous Programming.sourcelink.json
